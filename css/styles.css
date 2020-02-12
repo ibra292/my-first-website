@@ -10,16 +10,17 @@ h1 {
   p {
     font-family: sans-serif;
   }
-  ol {
+  ol {color: blue;
     line-height: 40px;
-    color: crimson;
+    color ;
   }
   p{
-    color: blue;
+    color: blue;  
     text-align: center;
     font-size: medium;
   }
   body{
-    background-image: url(images/sea.jpg);
+    background-image: url(images/bulb.jpg);
+  font-size: xx-large;
   }
-  
+ 
